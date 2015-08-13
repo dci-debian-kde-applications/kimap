@@ -23,7 +23,7 @@ Section: libdevel
 Architecture: any
 Multi-Arch: foreign
 Depends: libboost-dev,
-         libkf5coraddons-dev,
+         libkf5coreaddons-dev,
          libkf5imap5 (= ${binary:Version}),
          libkf5mime-dev,
          libsasl2-dev,
