@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4:5.12.0 amd64 i386
+# SymbolsHelper-Confirmed: 5.12.0 amd64 i386
 libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP10AclJobBase10setMailBoxERK7QString@Base 15.07.90
  _ZN5KIMAP10AclJobBase11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
@@ -222,7 +222,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP15MetaDataJobBase11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP15MetaDataJobBase11qt_metacastEPKc@Base 15.07.90
  _ZN5KIMAP15MetaDataJobBase16staticMetaObjectE@Base 15.07.90
- _ZN5KIMAP15MetaDataJobBase19setServerCapabilityENS0_16ServerCapabilityE@Base 4:5.12.0
+ _ZN5KIMAP15MetaDataJobBase19setServerCapabilityENS0_16ServerCapabilityE@Base 5.12.0
  _ZN5KIMAP15MetaDataJobBaseC1EPNS_7SessionE@Base 15.07.90
  _ZN5KIMAP15MetaDataJobBaseC1ERNS_10JobPrivateE@Base 15.07.90
  _ZN5KIMAP15MetaDataJobBaseC2EPNS_7SessionE@Base 15.07.90
