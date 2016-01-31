@@ -46,16 +46,3 @@ Description: library for handling IMAP data
  This library provides an API for handling data received from IMAP services.
  IMAP (Internet Message Access Protocol) is one of the two most prevalent
  Internet standard protocols for e-mail retrieval.
-
-Package: libkf5imap-dbg
-Section: debug
-Priority: extra
-Architecture: any
-Multi-Arch: same
-Depends: libkf5imap5 (= ${binary:Version}), ${misc:Depends}
-Description: library for handling IMAP data - debug symbols
- This library provides an API for handling data received from IMAP services.
- IMAP (Internet Message Access Protocol) is one of the two most prevalent
- Internet standard protocols for e-mail retrieval.
- .
- This package contains the debug symbols.
