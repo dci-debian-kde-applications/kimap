@@ -11,7 +11,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5coreaddons-dev (>= 5.12.0~),
                libkf5i18n-dev (>= 5.12.0~),
                libkf5kdelibs4support-dev (>= 5.12.0~),
-               libkf5mime-dev (>= 4.83.0~),
+               libkf5mime-dev (>= 15.12~),
                libsasl2-dev,
                pkg-kde-tools (>> 0.15.15),
                qtbase5-dev
