@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 5.12.0 amd64 i386
+# SymbolsHelper-Confirmed: 15.12.0 amd64
 libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP10AclJobBase10setMailBoxERK7QString@Base 15.07.90
  _ZN5KIMAP10AclJobBase11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
@@ -222,7 +222,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP15MetaDataJobBase11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP15MetaDataJobBase11qt_metacastEPKc@Base 15.07.90
  _ZN5KIMAP15MetaDataJobBase16staticMetaObjectE@Base 15.07.90
- _ZN5KIMAP15MetaDataJobBase19setServerCapabilityENS0_16ServerCapabilityE@Base 5.12.0
+ _ZN5KIMAP15MetaDataJobBase19setServerCapabilityENS0_16ServerCapabilityE@Base 15.12.0
  _ZN5KIMAP15MetaDataJobBaseC1EPNS_7SessionE@Base 15.07.90
  _ZN5KIMAP15MetaDataJobBaseC1ERNS_10JobPrivateE@Base 15.07.90
  _ZN5KIMAP15MetaDataJobBaseC2EPNS_7SessionE@Base 15.07.90
@@ -330,7 +330,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP7IdleJobD1Ev@Base 15.07.90
  _ZN5KIMAP7IdleJobD2Ev@Base 15.07.90
  _ZN5KIMAP7ImapSet19fromImapSequenceSetERK10QByteArray@Base 15.07.90
- _ZN5KIMAP7ImapSet3addERK7QVectorIxE@Base 15.08.1
+ _ZN5KIMAP7ImapSet3addERK7QVectorIxE@Base 15.12.0
  _ZN5KIMAP7ImapSet3addERKNS_12ImapIntervalE@Base 15.07.90
  _ZN5KIMAP7ImapSet3addEx@Base 15.07.90
  _ZN5KIMAP7ImapSetC1ERKS0_@Base 15.07.90
@@ -361,7 +361,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP7ListJobD2Ev@Base 15.07.90
  _ZN5KIMAP7Session10setTimeoutEi@Base 15.07.90
  _ZN5KIMAP7Session10setUiProxyEPNS_14SessionUiProxyE@Base 15.07.90
- _ZN5KIMAP7Session10setUiProxyERK14QSharedPointerINS_14SessionUiProxyEE@Base 15.08.1
+ _ZN5KIMAP7Session10setUiProxyERK14QSharedPointerINS_14SessionUiProxyEE@Base 15.12.0
  _ZN5KIMAP7Session11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP7Session11qt_metacastEPKc@Base 15.07.90
  _ZN5KIMAP7Session12stateChangedENS0_5StateES1_@Base 15.07.90
@@ -389,14 +389,14 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP8FetchJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP8FetchJob11qt_metacastEPKc@Base 15.07.90
  _ZN5KIMAP8FetchJob11setUidBasedEb@Base 15.07.90
- _ZN5KIMAP8FetchJob13partsReceivedERK7QStringRK4QMapIxxERKS4_Ix5QPairI10QByteArray8QVariantEERKS4_IxS4_IS9_14QSharedPointerIN5KMime7ContentEEEE@Base 15.08.1
- _ZN5KIMAP8FetchJob13partsReceivedERK7QStringRK4QMapIxxERKS4_IxS4_I10QByteArray14QSharedPointerIN5KMime7ContentEEEE@Base 15.08.1
+ _ZN5KIMAP8FetchJob13partsReceivedERK7QStringRK4QMapIxxERKS4_Ix5QPairI10QByteArray8QVariantEERKS4_IxS4_IS9_14QSharedPointerIN5KMime7ContentEEEE@Base 15.12.0
+ _ZN5KIMAP8FetchJob13partsReceivedERK7QStringRK4QMapIxxERKS4_IxS4_I10QByteArray14QSharedPointerIN5KMime7ContentEEEE@Base 15.12.0
  _ZN5KIMAP8FetchJob14handleResponseERKNS_7MessageE@Base 15.07.90
  _ZN5KIMAP8FetchJob14setSequenceSetERKNS_7ImapSetE@Base 15.07.90
- _ZN5KIMAP8FetchJob15headersReceivedERK7QStringRK4QMapIxxES7_RKS4_Ix5QListI10QByteArrayEERKS4_Ix14QSharedPointerIN5KMime7MessageEEE@Base 15.08.1
- _ZN5KIMAP8FetchJob15headersReceivedERK7QStringRK4QMapIxxES7_RKS4_Ix5QPairI10QByteArray8QVariantEERKS4_Ix5QListIS9_EERKS4_Ix14QSharedPointerIN5KMime7MessageEEE@Base 15.08.1
- _ZN5KIMAP8FetchJob16messagesReceivedERK7QStringRK4QMapIxxERKS4_Ix14QSharedPointerIN5KMime7MessageEEE@Base 15.08.1
- _ZN5KIMAP8FetchJob16messagesReceivedERK7QStringRK4QMapIxxERKS4_Ix5QPairI10QByteArray8QVariantEERKS4_Ix14QSharedPointerIN5KMime7MessageEEE@Base 15.08.1
+ _ZN5KIMAP8FetchJob15headersReceivedERK7QStringRK4QMapIxxES7_RKS4_Ix5QListI10QByteArrayEERKS4_Ix14QSharedPointerIN5KMime7MessageEEE@Base 15.12.0
+ _ZN5KIMAP8FetchJob15headersReceivedERK7QStringRK4QMapIxxES7_RKS4_Ix5QPairI10QByteArray8QVariantEERKS4_Ix5QListIS9_EERKS4_Ix14QSharedPointerIN5KMime7MessageEEE@Base 15.12.0
+ _ZN5KIMAP8FetchJob16messagesReceivedERK7QStringRK4QMapIxxERKS4_Ix14QSharedPointerIN5KMime7MessageEEE@Base 15.12.0
+ _ZN5KIMAP8FetchJob16messagesReceivedERK7QStringRK4QMapIxxERKS4_Ix5QPairI10QByteArray8QVariantEERKS4_Ix14QSharedPointerIN5KMime7MessageEEE@Base 15.12.0
  _ZN5KIMAP8FetchJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP8FetchJob25setGmailExtensionsEnabledEb@Base 15.07.90
  _ZN5KIMAP8FetchJob7doStartEv@Base 15.07.90
