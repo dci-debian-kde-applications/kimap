@@ -4,9 +4,13 @@ kimap (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   * Debian merge, no remaining changes.
   * New upstream release.
   * Debian merge: Second time, rebuild pim stack. 
-
+  * No change. Rebuild. 
+  
   [ Clive Johnston ]
   * Fixing install file
+
+  [ Scarlett Clark ]
+  * Fix merger. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 12 Jan 2016 13:59:59 -0800
 
