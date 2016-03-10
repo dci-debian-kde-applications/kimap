@@ -1,4 +1,4 @@
-kimap (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+kimap (15.12.1-0ubuntu1) xenial; urgency=medium
 
   [ Scarlett Clark ]
   * Debian merge, no remaining changes.
@@ -12,7 +12,7 @@ kimap (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   [ Scarlett Clark ]
   * Fix merger. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 12 Jan 2016 13:59:59 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 10:47:15 +0100
 
 kimap (15.12.0-2) experimental; urgency=medium
 
