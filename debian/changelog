@@ -1,3 +1,11 @@
+kimap (15.12.0-3~1.gbpdeafbd) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @deafbdd6d489a7be61ace4463b7b23008d4fa78a **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:36:01 +0200
+
 kimap (15.12.0-2) experimental; urgency=medium
 
   * Bump build dependencies to match packages versions, and not
