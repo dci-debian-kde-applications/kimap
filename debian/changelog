@@ -1,3 +1,12 @@
+kimap (16.04.0-1~1.gbp7ffd0d) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @7ffd0d1948193201f91d4145b0b6c3515e7cc247 **
+
+  * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 06:35:13 +0200
+
 kimap (15.12.0-2) experimental; urgency=medium
 
   * Bump build dependencies to match packages versions, and not
