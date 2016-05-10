@@ -1,6 +1,6 @@
-kimap (16.04.0-1~3.gbp5c01e4) UNRELEASED; urgency=medium
+kimap (16.04.1-1~1.gbpe94aa6) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @5c01e4518915912b98a8862904a1c87181d590e6 **
+  ** SNAPSHOT build @e94aa63795ec4560b1758f622e8a6b6c75b23fe3 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @7ffd0d1948193201f91d4145b0b6c3515e7cc247 **
@@ -8,6 +8,7 @@ kimap (16.04.0-1~3.gbp5c01e4) UNRELEASED; urgency=medium
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
   * Update symbols files.
+  * UNRELEASED
 
   [ Maximiliano Curia ]
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
@@ -15,7 +16,7 @@ kimap (16.04.0-1~3.gbp5c01e4) UNRELEASED; urgency=medium
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Update install files
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 27 Apr 2016 08:58:43 +0200
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 00:35:16 +0200
 
 kimap (15.12.0-2) experimental; urgency=medium
 
