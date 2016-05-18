@@ -1,3 +1,9 @@
+kimap (16.04.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:16:33 +0200
+
 kimap (16.04.0-1~1.gbp7ffd0d) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @7ffd0d1948193201f91d4145b0b6c3515e7cc247 **
