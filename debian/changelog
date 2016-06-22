@@ -1,10 +1,8 @@
-kimap (16.04.2-1~1.gbp2c580f) UNRELEASED; urgency=medium
+kimap (16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @2c580fc5c34a47775545a1a9d95b0dec10b1f56c **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 06:35:41 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jun 2016 21:08:11 +0200
 
 kimap (16.04.1-1) unstable; urgency=medium
 
