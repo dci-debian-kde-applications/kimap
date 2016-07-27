@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 15.12.0 amd64
+# SymbolsHelper-Confirmed: 16.04.0 amd64 armhf i386
 libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP10AclJobBase10setMailBoxERK7QString@Base 15.07.90
  _ZN5KIMAP10AclJobBase11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
@@ -547,6 +547,18 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP9SetAclJobD0Ev@Base 15.07.90
  _ZN5KIMAP9SetAclJobD1Ev@Base 15.07.90
  _ZN5KIMAP9SetAclJobD2Ev@Base 15.07.90
+ _ZN5KIMAP9StatusJob10setMailBoxERK7QString@Base 16.04.0
+ _ZN5KIMAP9StatusJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 16.04.0
+ _ZN5KIMAP9StatusJob11qt_metacastEPKc@Base 16.04.0
+ _ZN5KIMAP9StatusJob12setDataItemsERK5QListI10QByteArrayE@Base 16.04.0
+ _ZN5KIMAP9StatusJob14handleResponseERKNS_7MessageE@Base 16.04.0
+ _ZN5KIMAP9StatusJob16staticMetaObjectE@Base 16.04.0
+ _ZN5KIMAP9StatusJob7doStartEv@Base 16.04.0
+ _ZN5KIMAP9StatusJobC1EPNS_7SessionE@Base 16.04.0
+ _ZN5KIMAP9StatusJobC2EPNS_7SessionE@Base 16.04.0
+ _ZN5KIMAP9StatusJobD0Ev@Base 16.04.0
+ _ZN5KIMAP9StatusJobD1Ev@Base 16.04.0
+ _ZN5KIMAP9StatusJobD2Ev@Base 16.04.0
  _ZN5KIMAP9quoteIMAPERK10QByteArray@Base 15.07.90
  _ZN5KIMAP9quoteIMAPERK7QString@Base 15.07.90
  _ZNK5KIMAP10AclJobBase10metaObjectEv@Base 15.07.90
@@ -694,6 +706,10 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZNK5KIMAP9SelectJob7mailBoxEv@Base 15.07.90
  _ZNK5KIMAP9SelectJob7nextUidEv@Base 15.07.90
  _ZNK5KIMAP9SetAclJob10metaObjectEv@Base 15.07.90
+ _ZNK5KIMAP9StatusJob10metaObjectEv@Base 16.04.0
+ _ZNK5KIMAP9StatusJob6statusEv@Base 16.04.0
+ _ZNK5KIMAP9StatusJob7mailBoxEv@Base 16.04.0
+ _ZNK5KIMAP9StatusJob9dataItemsEv@Base 16.04.0
  _ZTIN5KIMAP10AclJobBaseE@Base 15.07.90
  _ZTIN5KIMAP10ExpungeJobE@Base 15.07.90
  _ZTIN5KIMAP11GetQuotaJobE@Base 15.07.90
@@ -730,6 +746,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZTIN5KIMAP9SearchJobE@Base 15.07.90
  _ZTIN5KIMAP9SelectJobE@Base 15.07.90
  _ZTIN5KIMAP9SetAclJobE@Base 15.07.90
+ _ZTIN5KIMAP9StatusJobE@Base 16.04.0
  _ZTSN5KIMAP10AclJobBaseE@Base 15.07.90
  _ZTSN5KIMAP10ExpungeJobE@Base 15.07.90
  _ZTSN5KIMAP11GetQuotaJobE@Base 15.07.90
@@ -766,6 +783,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZTSN5KIMAP9SearchJobE@Base 15.07.90
  _ZTSN5KIMAP9SelectJobE@Base 15.07.90
  _ZTSN5KIMAP9SetAclJobE@Base 15.07.90
+ _ZTSN5KIMAP9StatusJobE@Base 16.04.0
  _ZTVN5KIMAP10AclJobBaseE@Base 15.07.90
  _ZTVN5KIMAP10ExpungeJobE@Base 15.07.90
  _ZTVN5KIMAP11GetQuotaJobE@Base 15.07.90
@@ -802,5 +820,6 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZTVN5KIMAP9SearchJobE@Base 15.07.90
  _ZTVN5KIMAP9SelectJobE@Base 15.07.90
  _ZTVN5KIMAP9SetAclJobE@Base 15.07.90
+ _ZTVN5KIMAP9StatusJobE@Base 16.04.0
  _ZlsR6QDebugRKN5KIMAP12ImapIntervalE@Base 15.07.90
  _ZlsR6QDebugRKN5KIMAP7ImapSetE@Base 15.07.90
