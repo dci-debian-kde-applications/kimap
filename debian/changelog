@@ -1,10 +1,16 @@
-kimap (16.04.3-1~1.gbp79cefd) UNRELEASED; urgency=medium
+kimap (16.08.0-1~1.gbpab72eb) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @ab72ebab674e37eb5aa9311ba8882d762614d2c6 **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @79cefdaa78be35cab792262b0e58449857b94af5 **
 
   * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 13 Jul 2016 00:35:22 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Fri, 19 Aug 2016 00:35:14 +0200
 
 kimap (16.04.2-1) unstable; urgency=medium
 
