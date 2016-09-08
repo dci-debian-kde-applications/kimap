@@ -1,6 +1,6 @@
-kimap (16.08.0-1~1.gbpab72eb) UNRELEASED; urgency=medium
+kimap (16.08.1-1~1.gbp95caaa) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @ab72ebab674e37eb5aa9311ba8882d762614d2c6 **
+  ** SNAPSHOT build @95caaac45c0e1b940826a07f5e21e79dacfc3b16 **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @79cefdaa78be35cab792262b0e58449857b94af5 **
@@ -9,8 +9,10 @@ kimap (16.08.0-1~1.gbpab72eb) UNRELEASED; urgency=medium
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
+  * Update build-deps and deps with the info from cmake
+  * Update symbols files.
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Fri, 19 Aug 2016 00:35:14 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Fri, 09 Sep 2016 00:35:36 +0200
 
 kimap (16.04.2-1) unstable; urgency=medium
 
