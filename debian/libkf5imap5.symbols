@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 16.04.0 amd64 armhf i386
+# SymbolsHelper-Confirmed: 16.08.0 amd64 armhf i386
 libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP10AclJobBase10setMailBoxERK7QString@Base 15.07.90
  _ZN5KIMAP10AclJobBase11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
@@ -303,6 +303,17 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP4TermC2ERKS0_@Base 15.07.90
  _ZN5KIMAP4TermC2Ev@Base 15.07.90
  _ZN5KIMAP4TermaSERKS0_@Base 15.07.90
+ _ZN5KIMAP5IdJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 16.08.0
+ _ZN5KIMAP5IdJob11qt_metacastEPKc@Base 16.08.0
+ _ZN5KIMAP5IdJob14handleResponseERKNS_7MessageE@Base 16.08.0
+ _ZN5KIMAP5IdJob16staticMetaObjectE@Base 16.08.0
+ _ZN5KIMAP5IdJob7doStartEv@Base 16.08.0
+ _ZN5KIMAP5IdJob8setFieldERK10QByteArrayS3_@Base 16.08.0
+ _ZN5KIMAP5IdJobC1EPNS_7SessionE@Base 16.08.0
+ _ZN5KIMAP5IdJobC2EPNS_7SessionE@Base 16.08.0
+ _ZN5KIMAP5IdJobD0Ev@Base 16.08.0
+ _ZN5KIMAP5IdJobD1Ev@Base 16.08.0
+ _ZN5KIMAP5IdJobD2Ev@Base 16.08.0
  _ZN5KIMAP7CopyJob10setMailBoxERK7QString@Base 15.07.90
  _ZN5KIMAP7CopyJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP7CopyJob11qt_metacastEPKc@Base 15.07.90
@@ -619,6 +630,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZNK5KIMAP4Term6isNullEv@Base 15.07.90
  _ZNK5KIMAP4Term9serializeEv@Base 15.07.90
  _ZNK5KIMAP4TermeqERKS0_@Base 15.07.90
+ _ZNK5KIMAP5IdJob10metaObjectEv@Base 16.08.0
  _ZNK5KIMAP7CopyJob10isUidBasedEv@Base 15.07.90
  _ZNK5KIMAP7CopyJob10metaObjectEv@Base 15.07.90
  _ZNK5KIMAP7CopyJob11sequenceSetEv@Base 15.07.90
@@ -729,6 +741,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZTIN5KIMAP15GetQuotaRootJobE@Base 15.07.90
  _ZTIN5KIMAP15MetaDataJobBaseE@Base 15.07.90
  _ZTIN5KIMAP3JobE@Base 15.07.90
+ _ZTIN5KIMAP5IdJobE@Base 16.08.0
  _ZTIN5KIMAP7CopyJobE@Base 15.07.90
  _ZTIN5KIMAP7IdleJobE@Base 15.07.90
  _ZTIN5KIMAP7ListJobE@Base 15.07.90
@@ -766,6 +779,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZTSN5KIMAP15GetQuotaRootJobE@Base 15.07.90
  _ZTSN5KIMAP15MetaDataJobBaseE@Base 15.07.90
  _ZTSN5KIMAP3JobE@Base 15.07.90
+ _ZTSN5KIMAP5IdJobE@Base 16.08.0
  _ZTSN5KIMAP7CopyJobE@Base 15.07.90
  _ZTSN5KIMAP7IdleJobE@Base 15.07.90
  _ZTSN5KIMAP7ListJobE@Base 15.07.90
@@ -803,6 +817,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZTVN5KIMAP15GetQuotaRootJobE@Base 15.07.90
  _ZTVN5KIMAP15MetaDataJobBaseE@Base 15.07.90
  _ZTVN5KIMAP3JobE@Base 15.07.90
+ _ZTVN5KIMAP5IdJobE@Base 16.08.0
  _ZTVN5KIMAP7CopyJobE@Base 15.07.90
  _ZTVN5KIMAP7IdleJobE@Base 15.07.90
  _ZTVN5KIMAP7ListJobE@Base 15.07.90
