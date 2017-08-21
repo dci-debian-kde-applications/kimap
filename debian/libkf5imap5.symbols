@@ -1,5 +1,6 @@
-# SymbolsHelper-Confirmed: 16.08.0 amd64 armhf i386
+# SymbolsHelper-Confirmed: 17.08.0 amd64
 libKF5IMAP.so.5 libkf5imap5 #MINVER#
+ _ZN10QByteArray7reserveEi@Base 17.08.0
  _ZN5KIMAP10AclJobBase10setMailBoxERK7QString@Base 15.07.90
  _ZN5KIMAP10AclJobBase11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP10AclJobBase11qt_metacastEPKc@Base 15.07.90
@@ -13,7 +14,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP10AclJobBaseD2Ev@Base 15.07.90
  _ZN5KIMAP10ExpungeJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP10ExpungeJob11qt_metacastEPKc@Base 15.07.90
- _ZN5KIMAP10ExpungeJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP10ExpungeJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP10ExpungeJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP10ExpungeJob7doStartEv@Base 15.07.90
  _ZN5KIMAP10ExpungeJobC1EPNS_7SessionE@Base 15.07.90
@@ -23,7 +24,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP10ExpungeJobD2Ev@Base 15.07.90
  _ZN5KIMAP11GetQuotaJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP11GetQuotaJob11qt_metacastEPKc@Base 15.07.90
- _ZN5KIMAP11GetQuotaJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP11GetQuotaJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP11GetQuotaJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP11GetQuotaJob7doStartEv@Base 15.07.90
  _ZN5KIMAP11GetQuotaJob7setRootERK10QByteArray@Base 15.07.90
@@ -34,7 +35,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP11GetQuotaJobD2Ev@Base 15.07.90
  _ZN5KIMAP11MyRightsJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP11MyRightsJob11qt_metacastEPKc@Base 15.07.90
- _ZN5KIMAP11MyRightsJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP11MyRightsJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP11MyRightsJob15hasRightEnabledENS_3Acl5RightE@Base 15.07.90
  _ZN5KIMAP11MyRightsJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP11MyRightsJob6rightsEv@Base 15.07.90
@@ -46,7 +47,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP11MyRightsJobD2Ev@Base 15.07.90
  _ZN5KIMAP11SetQuotaJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP11SetQuotaJob11qt_metacastEPKc@Base 15.07.90
- _ZN5KIMAP11SetQuotaJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP11SetQuotaJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP11SetQuotaJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP11SetQuotaJob7doStartEv@Base 15.07.90
  _ZN5KIMAP11SetQuotaJob7setRootERK10QByteArray@Base 15.07.90
@@ -81,7 +82,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP12ImapIntervalaSERKS0_@Base 15.07.90
  _ZN5KIMAP12NamespaceJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP12NamespaceJob11qt_metacastEPKc@Base 15.07.90
- _ZN5KIMAP12NamespaceJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP12NamespaceJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP12NamespaceJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP12NamespaceJob7doStartEv@Base 15.07.90
  _ZN5KIMAP12NamespaceJobC1EPNS_7SessionE@Base 15.07.90
@@ -117,7 +118,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP13ListRightsJob11qt_metacastEPKc@Base 15.07.90
  _ZN5KIMAP13ListRightsJob13defaultRightsEv@Base 15.07.90
  _ZN5KIMAP13ListRightsJob13setIdentifierERK10QByteArray@Base 15.07.90
- _ZN5KIMAP13ListRightsJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP13ListRightsJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP13ListRightsJob14possibleRightsEv@Base 15.07.90
  _ZN5KIMAP13ListRightsJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP13ListRightsJob7doStartEv@Base 15.07.90
@@ -128,7 +129,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP13ListRightsJobD2Ev@Base 15.07.90
  _ZN5KIMAP14GetMetaDataJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP14GetMetaDataJob11qt_metacastEPKc@Base 15.07.90
- _ZN5KIMAP14GetMetaDataJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP14GetMetaDataJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP14GetMetaDataJob14setMaximumSizeEx@Base 15.07.90
  _ZN5KIMAP14GetMetaDataJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP14GetMetaDataJob17addRequestedEntryERK10QByteArray@Base 15.07.90
@@ -152,7 +153,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP14SessionPrivate15onSocketTimeoutEv@Base 15.07.90
  _ZN5KIMAP14SessionPrivate15socketConnectedEv@Base 15.07.90
  _ZN5KIMAP14SessionPrivate15stopSocketTimerEv@Base 15.07.90
- _ZN5KIMAP14SessionPrivate16responseReceivedERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP14SessionPrivate16responseReceivedERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP14SessionPrivate16setSocketTimeoutEi@Base 15.07.90
  _ZN5KIMAP14SessionPrivate16startSocketTimerEv@Base 15.07.90
  _ZN5KIMAP14SessionPrivate16staticMetaObjectE@Base 15.07.90
@@ -164,7 +165,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP14SessionPrivate7jobDoneEP4KJob@Base 15.07.90
  _ZN5KIMAP14SessionPrivate8sendDataERK10QByteArray@Base 15.07.90
  _ZN5KIMAP14SessionPrivate8setStateENS_7Session5StateE@Base 15.07.90
- _ZN5KIMAP14SessionPrivate8startSslERKN10KTcpSocket10SslVersionE@Base 15.07.90
+ _ZN5KIMAP14SessionPrivate8startSslEN10KTcpSocket10SslVersionE@Base 17.08.0
  _ZN5KIMAP14SessionPrivate9startNextEv@Base 15.07.90
  _ZN5KIMAP14SessionPrivateC1EPNS_7SessionE@Base 15.07.90
  _ZN5KIMAP14SessionPrivateC2EPNS_7SessionE@Base 15.07.90
@@ -177,7 +178,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP14SetMetaDataJob11addMetaDataERK10QByteArrayS3_@Base 15.07.90
  _ZN5KIMAP14SetMetaDataJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP14SetMetaDataJob11qt_metacastEPKc@Base 15.07.90
- _ZN5KIMAP14SetMetaDataJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP14SetMetaDataJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP14SetMetaDataJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP14SetMetaDataJob7doStartEv@Base 15.07.90
  _ZN5KIMAP14SetMetaDataJob8setEntryERK10QByteArray@Base 15.07.90
@@ -198,7 +199,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP14UnsubscribeJobD2Ev@Base 15.07.90
  _ZN5KIMAP15CapabilitiesJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP15CapabilitiesJob11qt_metacastEPKc@Base 15.07.90
- _ZN5KIMAP15CapabilitiesJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP15CapabilitiesJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP15CapabilitiesJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP15CapabilitiesJob20capabilitiesReceivedERK11QStringList@Base 15.07.90
  _ZN5KIMAP15CapabilitiesJob7doStartEv@Base 15.07.90
@@ -210,7 +211,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP15GetQuotaRootJob10setMailBoxERK7QString@Base 15.07.90
  _ZN5KIMAP15GetQuotaRootJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP15GetQuotaRootJob11qt_metacastEPKc@Base 15.07.90
- _ZN5KIMAP15GetQuotaRootJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP15GetQuotaRootJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP15GetQuotaRootJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP15GetQuotaRootJob7doStartEv@Base 15.07.90
  _ZN5KIMAP15GetQuotaRootJobC1EPNS_7SessionE@Base 15.07.90
@@ -270,10 +271,9 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP3Job11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP3Job11qt_metacastEPKc@Base 15.07.90
  _ZN5KIMAP3Job14connectionLostEv@Base 15.07.90
- _ZN5KIMAP3Job14handleResponseERKNS_7MessageE@Base 15.07.90
- _ZN5KIMAP3Job14setSocketErrorEN10KTcpSocket5ErrorE@Base 15.07.90
+ _ZN5KIMAP3Job14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP3Job16staticMetaObjectE@Base 15.07.90
- _ZN5KIMAP3Job18handleErrorRepliesERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP3Job18handleErrorRepliesERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP3Job5startEv@Base 15.07.90
  _ZN5KIMAP3JobC1EPNS_7SessionE@Base 15.07.90
  _ZN5KIMAP3JobC1ERNS_10JobPrivateE@Base 15.07.90
@@ -302,10 +302,12 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP4TermC2ERK7QStringS3_@Base 15.07.90
  _ZN5KIMAP4TermC2ERKS0_@Base 15.07.90
  _ZN5KIMAP4TermC2Ev@Base 15.07.90
+ _ZN5KIMAP4TermD1Ev@Base 17.08.0
+ _ZN5KIMAP4TermD2Ev@Base 17.08.0
  _ZN5KIMAP4TermaSERKS0_@Base 15.07.90
  _ZN5KIMAP5IdJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 16.08.0
  _ZN5KIMAP5IdJob11qt_metacastEPKc@Base 16.08.0
- _ZN5KIMAP5IdJob14handleResponseERKNS_7MessageE@Base 16.08.0
+ _ZN5KIMAP5IdJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP5IdJob16staticMetaObjectE@Base 16.08.0
  _ZN5KIMAP5IdJob7doStartEv@Base 16.08.0
  _ZN5KIMAP5IdJob8setFieldERK10QByteArrayS3_@Base 16.08.0
@@ -318,7 +320,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP7CopyJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP7CopyJob11qt_metacastEPKc@Base 15.07.90
  _ZN5KIMAP7CopyJob11setUidBasedEb@Base 15.07.90
- _ZN5KIMAP7CopyJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP7CopyJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP7CopyJob14setSequenceSetERKNS_7ImapSetE@Base 15.07.90
  _ZN5KIMAP7CopyJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP7CopyJob7doStartEv@Base 15.07.90
@@ -330,7 +332,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP7IdleJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP7IdleJob11qt_metacastEPKc@Base 15.07.90
  _ZN5KIMAP7IdleJob12mailBoxStatsEPS0_RK7QStringii@Base 15.07.90
- _ZN5KIMAP7IdleJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP7IdleJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP7IdleJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP7IdleJob26mailBoxMessageFlagsChangedEPS0_x@Base 15.07.90
  _ZN5KIMAP7IdleJob4stopEv@Base 15.07.90
@@ -357,7 +359,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP7ImapSetaSERKS0_@Base 15.07.90
  _ZN5KIMAP7ListJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP7ListJob11qt_metacastEPKc@Base 15.07.90
- _ZN5KIMAP7ListJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP7ListJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP7ListJob16convertInboxNameERNS_17MailBoxDescriptorE@Base 15.07.90
  _ZN5KIMAP7ListJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP7ListJob17mailBoxesReceivedERK5QListINS_17MailBoxDescriptorEERKS1_IS1_I10QByteArrayEE@Base 15.07.90
@@ -370,6 +372,19 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP7ListJobD0Ev@Base 15.07.90
  _ZN5KIMAP7ListJobD1Ev@Base 15.07.90
  _ZN5KIMAP7ListJobD2Ev@Base 15.07.90
+ _ZN5KIMAP7MoveJob10setMailBoxERK7QString@Base 17.08.0
+ _ZN5KIMAP7MoveJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 17.08.0
+ _ZN5KIMAP7MoveJob11qt_metacastEPKc@Base 17.08.0
+ _ZN5KIMAP7MoveJob11setUidBasedEb@Base 17.08.0
+ _ZN5KIMAP7MoveJob14handleResponseERKNS_8ResponseE@Base 17.08.0
+ _ZN5KIMAP7MoveJob14setSequenceSetERKNS_7ImapSetE@Base 17.08.0
+ _ZN5KIMAP7MoveJob16staticMetaObjectE@Base 17.08.0
+ _ZN5KIMAP7MoveJob7doStartEv@Base 17.08.0
+ _ZN5KIMAP7MoveJobC1EPNS_7SessionE@Base 17.08.0
+ _ZN5KIMAP7MoveJobC2EPNS_7SessionE@Base 17.08.0
+ _ZN5KIMAP7MoveJobD0Ev@Base 17.08.0
+ _ZN5KIMAP7MoveJobD1Ev@Base 17.08.0
+ _ZN5KIMAP7MoveJobD2Ev@Base 17.08.0
  _ZN5KIMAP7Session10setTimeoutEi@Base 15.07.90
  _ZN5KIMAP7Session10setUiProxyEPNS_14SessionUiProxyE@Base 15.07.90
  _ZN5KIMAP7Session10setUiProxyERK14QSharedPointerINS_14SessionUiProxyEE@Base 15.12.0
@@ -402,13 +417,14 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP8FetchJob11setUidBasedEb@Base 15.07.90
  _ZN5KIMAP8FetchJob13partsReceivedERK7QStringRK4QMapIxxERKS4_Ix5QPairI10QByteArray8QVariantEERKS4_IxS4_IS9_14QSharedPointerIN5KMime7ContentEEEE@Base 15.12.0
  _ZN5KIMAP8FetchJob13partsReceivedERK7QStringRK4QMapIxxERKS4_IxS4_I10QByteArray14QSharedPointerIN5KMime7ContentEEEE@Base 15.12.0
- _ZN5KIMAP8FetchJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP8FetchJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP8FetchJob14setSequenceSetERKNS_7ImapSetE@Base 15.07.90
  _ZN5KIMAP8FetchJob15headersReceivedERK7QStringRK4QMapIxxES7_RKS4_Ix5QListI10QByteArrayEERKS4_Ix14QSharedPointerIN5KMime7MessageEEE@Base 15.12.0
  _ZN5KIMAP8FetchJob15headersReceivedERK7QStringRK4QMapIxxES7_RKS4_Ix5QPairI10QByteArray8QVariantEERKS4_Ix5QListIS9_EERKS4_Ix14QSharedPointerIN5KMime7MessageEEE@Base 15.12.0
  _ZN5KIMAP8FetchJob16messagesReceivedERK7QStringRK4QMapIxxERKS4_Ix14QSharedPointerIN5KMime7MessageEEE@Base 15.12.0
  _ZN5KIMAP8FetchJob16messagesReceivedERK7QStringRK4QMapIxxERKS4_Ix5QPairI10QByteArray8QVariantEERKS4_Ix14QSharedPointerIN5KMime7MessageEEE@Base 15.12.0
  _ZN5KIMAP8FetchJob16staticMetaObjectE@Base 15.07.90
+ _ZN5KIMAP8FetchJob17messagesAvailableERK4QMapIxNS_7MessageEE@Base 17.08.0
  _ZN5KIMAP8FetchJob25setGmailExtensionsEnabledEb@Base 15.07.90
  _ZN5KIMAP8FetchJob7doStartEv@Base 15.07.90
  _ZN5KIMAP8FetchJob8setScopeERKNS0_10FetchScopeE@Base 15.07.90
@@ -423,7 +439,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP8LoginJob11setUserNameERK7QString@Base 15.07.90
  _ZN5KIMAP8LoginJob14connectionLostEv@Base 15.07.90
  _ZN5KIMAP8LoginJob14encryptionModeEv@Base 15.07.90
- _ZN5KIMAP8LoginJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP8LoginJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP8LoginJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP8LoginJob17setEncryptionModeENS0_14EncryptionModeE@Base 15.07.90
  _ZN5KIMAP8LoginJob20setAuthorizationNameERK7QString@Base 15.07.90
@@ -438,7 +454,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP8StoreJob11qt_metacastEPKc@Base 15.07.90
  _ZN5KIMAP8StoreJob11setGMLabelsERK5QListI10QByteArrayE@Base 15.07.90
  _ZN5KIMAP8StoreJob11setUidBasedEb@Base 15.07.90
- _ZN5KIMAP8StoreJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP8StoreJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP8StoreJob14setSequenceSetERKNS_7ImapSetE@Base 15.07.90
  _ZN5KIMAP8StoreJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP8StoreJob7doStartEv@Base 15.07.90
@@ -453,7 +469,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP9AppendJob10setMailBoxERK7QString@Base 15.07.90
  _ZN5KIMAP9AppendJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP9AppendJob11qt_metacastEPKc@Base 15.07.90
- _ZN5KIMAP9AppendJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP9AppendJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP9AppendJob15setInternalDateERK9QDateTime@Base 15.07.90
  _ZN5KIMAP9AppendJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP9AppendJob7doStartEv@Base 15.07.90
@@ -485,7 +501,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP9DeleteJobD2Ev@Base 15.07.90
  _ZN5KIMAP9GetAclJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP9GetAclJob11qt_metacastEPKc@Base 15.07.90
- _ZN5KIMAP9GetAclJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP9GetAclJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP9GetAclJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP9GetAclJob7doStartEv@Base 15.07.90
  _ZN5KIMAP9GetAclJobC1EPNS_7SessionE@Base 15.07.90
@@ -518,7 +534,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP9SearchJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP9SearchJob11qt_metacastEPKc@Base 15.07.90
  _ZN5KIMAP9SearchJob11setUidBasedEb@Base 15.07.90
- _ZN5KIMAP9SearchJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP9SearchJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP9SearchJob14setSearchLogicENS0_11SearchLogicE@Base 15.07.90
  _ZN5KIMAP9SearchJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP9SearchJob17addSearchCriteriaENS0_14SearchCriteriaE@Base 15.07.90
@@ -536,7 +552,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP9SelectJob10setMailBoxERK7QString@Base 15.07.90
  _ZN5KIMAP9SelectJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
  _ZN5KIMAP9SelectJob11qt_metacastEPKc@Base 15.07.90
- _ZN5KIMAP9SelectJob14handleResponseERKNS_7MessageE@Base 15.07.90
+ _ZN5KIMAP9SelectJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP9SelectJob15setOpenReadOnlyEb@Base 15.07.90
  _ZN5KIMAP9SelectJob16staticMetaObjectE@Base 15.07.90
  _ZN5KIMAP9SelectJob19setCondstoreEnabledEb@Base 15.07.90
@@ -562,7 +578,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZN5KIMAP9StatusJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 16.04.0
  _ZN5KIMAP9StatusJob11qt_metacastEPKc@Base 16.04.0
  _ZN5KIMAP9StatusJob12setDataItemsERK5QListI10QByteArrayE@Base 16.04.0
- _ZN5KIMAP9StatusJob14handleResponseERKNS_7MessageE@Base 16.04.0
+ _ZN5KIMAP9StatusJob14handleResponseERKNS_8ResponseE@Base 17.08.0
  _ZN5KIMAP9StatusJob16staticMetaObjectE@Base 16.04.0
  _ZN5KIMAP9StatusJob7doStartEv@Base 16.04.0
  _ZN5KIMAP9StatusJobC1EPNS_7SessionE@Base 16.04.0
@@ -605,6 +621,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZNK5KIMAP14GetMetaDataJob8metaDataERK10QByteArray@Base 15.07.90
  _ZNK5KIMAP14GetMetaDataJob8metaDataERK7QStringRK10QByteArrayS6_@Base 15.07.90
  _ZNK5KIMAP14SessionPrivate10metaObjectEv@Base 15.07.90
+ _ZNK5KIMAP14SessionPrivate11isConnectedEv@Base 17.08.0
  _ZNK5KIMAP14SessionPrivate13socketTimeoutEv@Base 15.07.90
  _ZNK5KIMAP14SessionPrivate20negotiatedEncryptionEv@Base 15.07.90
  _ZNK5KIMAP14SetMetaDataJob10metaObjectEv@Base 15.07.90
@@ -650,6 +667,11 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZNK5KIMAP7ListJob5flagsEv@Base 15.07.90
  _ZNK5KIMAP7ListJob6optionEv@Base 15.07.90
  _ZNK5KIMAP7ListJob9mailBoxesEv@Base 15.07.90
+ _ZNK5KIMAP7MoveJob10isUidBasedEv@Base 17.08.0
+ _ZNK5KIMAP7MoveJob10metaObjectEv@Base 17.08.0
+ _ZNK5KIMAP7MoveJob11sequenceSetEv@Base 17.08.0
+ _ZNK5KIMAP7MoveJob13resultingUidsEv@Base 17.08.0
+ _ZNK5KIMAP7MoveJob7mailBoxEv@Base 17.08.0
  _ZNK5KIMAP7Session10metaObjectEv@Base 15.07.90
  _ZNK5KIMAP7Session12jobQueueSizeEv@Base 15.07.90
  _ZNK5KIMAP7Session14serverGreetingEv@Base 15.07.90
@@ -664,12 +686,8 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZNK5KIMAP8FetchJob10metaObjectEv@Base 15.07.90
  _ZNK5KIMAP8FetchJob11sequenceSetEv@Base 15.07.90
  _ZNK5KIMAP8FetchJob25setGmailExtensionsEnabledEv@Base 15.07.90
- _ZNK5KIMAP8FetchJob4uidsEv@Base 15.07.90
- _ZNK5KIMAP8FetchJob5flagsEv@Base 15.07.90
- _ZNK5KIMAP8FetchJob5partsEv@Base 15.07.90
  _ZNK5KIMAP8FetchJob5scopeEv@Base 15.07.90
- _ZNK5KIMAP8FetchJob5sizesEv@Base 15.07.90
- _ZNK5KIMAP8FetchJob8messagesEv@Base 15.07.90
+ _ZNK5KIMAP8FetchJob7mailBoxEv@Base 17.08.0
  _ZNK5KIMAP8LoginJob10metaObjectEv@Base 15.07.90
  _ZNK5KIMAP8LoginJob14serverGreetingEv@Base 15.07.90
  _ZNK5KIMAP8LoginJob17authorizationNameEv@Base 15.07.90
@@ -745,6 +763,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZTIN5KIMAP7CopyJobE@Base 15.07.90
  _ZTIN5KIMAP7IdleJobE@Base 15.07.90
  _ZTIN5KIMAP7ListJobE@Base 15.07.90
+ _ZTIN5KIMAP7MoveJobE@Base 17.08.0
  _ZTIN5KIMAP7SessionE@Base 15.07.90
  _ZTIN5KIMAP8CloseJobE@Base 15.07.90
  _ZTIN5KIMAP8FetchJobE@Base 15.07.90
@@ -783,6 +802,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZTSN5KIMAP7CopyJobE@Base 15.07.90
  _ZTSN5KIMAP7IdleJobE@Base 15.07.90
  _ZTSN5KIMAP7ListJobE@Base 15.07.90
+ _ZTSN5KIMAP7MoveJobE@Base 17.08.0
  _ZTSN5KIMAP7SessionE@Base 15.07.90
  _ZTSN5KIMAP8CloseJobE@Base 15.07.90
  _ZTSN5KIMAP8FetchJobE@Base 15.07.90
@@ -821,6 +841,7 @@ libKF5IMAP.so.5 libkf5imap5 #MINVER#
  _ZTVN5KIMAP7CopyJobE@Base 15.07.90
  _ZTVN5KIMAP7IdleJobE@Base 15.07.90
  _ZTVN5KIMAP7ListJobE@Base 15.07.90
+ _ZTVN5KIMAP7MoveJobE@Base 17.08.0
  _ZTVN5KIMAP7SessionE@Base 15.07.90
  _ZTVN5KIMAP8CloseJobE@Base 15.07.90
  _ZTVN5KIMAP8FetchJobE@Base 15.07.90
