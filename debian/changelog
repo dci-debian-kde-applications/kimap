@@ -1,8 +1,12 @@
-kimap (17.08.0-1~) UNRELEASED; urgency=medium
+kimap (17.08.0-1~1) UNRELEASED; urgency=medium
 
   * New upstream release (17.08.0)
+  * Bump Standards-Version to 4.0.1.
+  * Update upstream metadata
+  * Update build-deps and deps with the info from cmake
+  * Update symbols file
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 21 Aug 2017 18:48:30 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 25 Aug 2017 17:52:23 +0200
 
 kimap (17.08.0-0neon) xenial; urgency=medium
 
