@@ -43,14 +43,10 @@ Package: libkf5imap5
 Architecture: any
 Multi-Arch: same
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Breaks: kde-l10n-ast (<< 4:17.03.90-0~),
-        kde-l10n-eo (<< 4:17.03.90-0~),
-        kdepim-runtime (<< 4:17.08),
+Breaks: kdepim-runtime (<< 4:17.08),
         libkf5pimcommon5 (<< 4:17.08),
         ${kde-l10n:all},
-Replaces: kde-l10n-ast (<< 4:17.03.90-0~),
-          kde-l10n-eo (<< 4:17.03.90-0~),
-          ${kde-l10n:all},
+Replaces: ${kde-l10n:all}
 Description: library for handling IMAP data
  This library provides an API for handling data received from IMAP services.
  IMAP (Internet Message Access Protocol) is one of the two most prevalent
