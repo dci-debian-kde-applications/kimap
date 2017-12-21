@@ -7,6 +7,7 @@ kimap (17.08.3-1) UNRELEASED; urgency=medium
   * Bump Standards-Version to 4.1.2 (No changes needed).
   * Remove not needed Build-Deps.
   * Bump debhelper build-dep and compat to 10.
+  * Set l10npkgs_firstversion_ok to 4:16.04.3-9~
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 13 Dec 2017 13:48:13 +0100
 
