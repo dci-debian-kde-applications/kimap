@@ -4,6 +4,7 @@ kimap (17.08.3-2) UNRELEASED; urgency=medium
   * Remove unused libkf5kdelibs4support-dev build dependency.
   * Remove kio-dev, and libboost-dev from the dependencies of libkf5imap-dev,
     as they are not needed.
+  * Simplify watch file, and switch it to https.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 23 Dec 2017 10:06:20 +0100
 
