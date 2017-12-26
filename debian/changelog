@@ -5,6 +5,7 @@ kimap (17.08.3-2) UNRELEASED; urgency=medium
   * Remove kio-dev, and libboost-dev from the dependencies of libkf5imap-dev,
     as they are not needed.
   * Simplify watch file, and switch it to https.
+  * Fix typo in old changelog entry.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 23 Dec 2017 10:06:20 +0100
 
@@ -15,7 +16,7 @@ kimap (17.08.3-1) unstable; urgency=medium
   [ Sandro Knauß ]
   * New upstream release (17.08.3).
   * Get rid of unnessary break/replaces of kde-l10n-(ast|eo).
-  * Mark libkf5imap-dev corretly as Multi-Arch: all
+  * Mark libkf5imap-dev correctly as Multi-Arch: all
   * Bump Standards-Version to 4.1.2 (No changes needed).
   * Remove not needed Build-Deps.
   * Bump debhelper build-dep and compat to 10.
