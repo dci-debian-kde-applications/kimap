@@ -1,3 +1,9 @@
+kimap (17.12.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 10 Jan 2018 18:31:08 +0000
+
 kimap (17.12.0-0neon) xenial; urgency=medium
 
   * New release
